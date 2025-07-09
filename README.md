@@ -38,7 +38,7 @@ Different machine learning models were applied and compared. The best-performing
 ### 🙋‍♀️ About the Author
 - **Created by:** Sanchita Durgude  
 - Passionate about data science, machine learning, and healthcare innovation  
-- https://www.linkedin.com/in/sanchita-durgude-842012289?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbFSVCloBSeK0OAifUDyYPQ%3D%3D
+- <a href="https://www.linkedin.com/in/sanchita-durgude-842012289?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbFSVCloBSeK0OAifUDyYPQ%3D%3D">Linkedin</a>
 
 ### 📝 License
 This project is available for educational and personal use.
